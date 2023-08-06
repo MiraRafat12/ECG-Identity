@@ -21,7 +21,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone "https://github.com/Stevenwaheed/ECG_Identity.git"
+git clone "https://github.com/MiraRafat12/ECG-Identity.git"
 ```
 
 <p>2. Install npm modules</p>
@@ -49,5 +49,3 @@ Technologies used in the project:
 *   scikit-learn
 *   streamlit
 
-<h2> Website</h2>
-Streamlit link: https://stevenwaheed-ecg-identity-streamlit-website-lz4zy9.streamlit.app/
